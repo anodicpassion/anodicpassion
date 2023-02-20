@@ -54,6 +54,3 @@
 <h5 align="center">Object Detection</h5>
 </td>
 </tr>
-</table
-</p>
-
