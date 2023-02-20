@@ -37,17 +37,3 @@
 
 </p>
 </div>
-
-
-<div align="center">
-<p>
-<table>
-<h1></h1>
-<tr>
-<td>
-<img src="https://mediapipe.dev/images/mobile/objectron_shoe_android_gpu.gif" width=200 height=300/>
-<h5 align="center">Object Orientation</h5>
-</td>
-
-<td>
-<img src="https://mediapipe.dev/images/mobile/object_tracking_android_gpu.gif" width=200 height=300/>
