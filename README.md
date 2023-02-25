@@ -11,7 +11,7 @@
 <div align="center">
 <p align="center">
 
-<a href="  _my_link_here_  " target="_blank" rel="noreferrer">
+<a href="https://opencv.org" target="_blank" rel="noreferrer">
 <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="60"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
