@@ -27,11 +27,11 @@
 <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="130" height="70"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="  _my_link_here_  " target="_blank" rel="noreferrer">
+<a href="https://pytorch.org" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" alt="PyTorch" width="60" height="75"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="  _my_link_here_  " target="_blank" rel="noreferrer">
+<a href="https://mediapipe.dev" target="_blank" rel="noreferrer">
 <img src="https://mediapipe.dev/assets/img/brand.svg" alt="Mediapipe" width="160" height="75"/>
 </a>
 
