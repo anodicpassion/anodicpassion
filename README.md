@@ -23,7 +23,7 @@
 <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="80"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="  _my_link_here_  " target="_blank" rel="noreferrer">
+<a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
 <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="130" height="70"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
