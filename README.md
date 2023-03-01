@@ -1,5 +1,23 @@
-<h1 align="center">Sup...?&nbsp;&nbsp;&nbsp;Pratik here...!<br><br></h1>
+<a href="https://www.linkedin.com">
+  <img align="left" alt="Pratik's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://instagram.com">
+  <img align="left" alt="Pratik's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discordapp.com">
+  <img align="left" alt="Praitk's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com">
+  <img align="left" alt="Pratik Pawar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 
+
+
+<img align="right" src="https://img.shields.io/github/followers/mr-vicky?label=Follow&style=social" /><img align="right" src="https://komarev.com/ghpvc/?username=pratik-suhas-pawar&color=brightgreen" /> 
+<br>
+
+<h1 align="center">Sup...?&nbsp;&nbsp;&nbsp;Pratik here...!<br><br></h1>
+<h4 align="center">Hi there, this is Pratik Suhas Pawar a Python programmer with experence in Computer Vision and Machine Learning. </h4>
 <p align = "center">
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/972px-Python_logo_and_wordmark.svg.png?20210516005643" alt="Python" width="170"/>
