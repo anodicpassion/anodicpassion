@@ -11,6 +11,38 @@
   <img align="left" alt="Pratik Pawar | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" />
 </a>
 
+<h1 align="center">
+
+```diff
+Sup...? Pratik here...!
+```
+
+</h1>
+<h3 align="center">
+  
+```diff
+@@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @@
+@@       o o                                           @@
+@@       | |      An exprienced programmer in Python,  @@
+@@      _L_L_      Computer Vision, Machine Learning   @@
+@@   ❮\/__-__\/❯                                       @@
+@@   ❮(|~o.o~|)❯                                       @@
+@@   ❮/ \`-'/ \❯       enthusiastic, optimistic,       @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while !succeed:            |     @@
+@@   \ |  ,  | /    |       try:                 |     @@
+@@    \|=====|/     '----------------------------'     @@
+@@     |_.^._|                                         @@
+@@     | |"| |                Computer                 @@
+@@     ( ) ( )     is a dumb computational device,     @@
+@@     |_| |_|      order it and it will obey...!      @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
+@@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @@
+```
+
+</h3>  
 
 
 <img align="right" src="https://img.shields.io/github/followers/pratik-suhas-pawar?label=Follow&style=social" /><img align="right" src="https://komarev.com/ghpvc/?username=pratik-suhas-pawar&color=brightgreen" /> 
