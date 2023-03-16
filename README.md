@@ -47,6 +47,7 @@ Sup...? Pratik here...!
 
 
 <img align="right" src="https://img.shields.io/github/followers/pratik-suhas-pawar?label=Follow&style=social" /><img align="right" src="https://komarev.com/ghpvc/?username=pratik-suhas-pawar&color=brightgreen" /> 
+
 <br>
 
 <h4 align="center">Hi there, this is Pratik Suhas Pawar a Python programmer with experence in Computer Vision and Machine Learning. </h4>
