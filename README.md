@@ -84,6 +84,5 @@ Sup...? Pratik here...!
 <a href="https://mediapipe.dev" target="_blank" rel="noreferrer">
 <img src="https://mediapipe.dev/assets/img/brand.svg" alt="Mediapipe" width="160" height="75"/>
 </a>
-
 </p>
 </div>
