@@ -4,6 +4,7 @@
 <a href="https://instagram.com">
   <img align="left" alt="Pratik's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" />
 </a>
+
 <a href="https://discordapp.com/users/anodic_passion#8670">
   <img align="left" alt="Praitk's Discord" width="22px"  src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" />
 </a>
