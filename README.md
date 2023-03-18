@@ -49,10 +49,9 @@ Hi there, this is Pratik Suhas Pawar a Python programmer with experence in Compu
 </h4>  
 
 <div align="center">
-
+<a href="https://github.com/pratik-suhas-pawar">
 <img src="https://img.shields.io/badge/grow_with_me-2023-blueviolet" alt=" welcome to contribute in my projects"/>
-<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<img src="https://img.shields.io/badge/contributers-welcome-blueviolet" alt=" welcome to contribute in my projects"/>
- 
-
+<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+<img src="https://img.shields.io/badge/contributers-welcome-blue" alt=" welcome to contribute in my projects"/>
+  </a>
 </div>
