@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com">
   <img align="left" alt="Pratik's LinkedIN" width="22px"  src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
-<a href="https://instagram.com">
+<a href="https://instagram.com/anodic_passion">
   <img align="left" alt="Pratik's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" />
 </a>
 
