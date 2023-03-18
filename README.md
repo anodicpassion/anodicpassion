@@ -24,7 +24,7 @@ Sup...? Pratik here...!
 Hi there, this is Pratik Suhas Pawar a Python programmer with experence in Computer Vision and Machine Learning. Working on the Python package which will be soon released.
 </h5>
 
-<h3 align="center"> 
+<h4 align="center"> 
   
 ```diff
 @@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @@
@@ -32,12 +32,12 @@ Hi there, this is Pratik Suhas Pawar a Python programmer with experence in Compu
 @@       | |      An exprienced programmer in Python,  @@
 @@      _L_L_      Computer Vision, Machine Learning   @@
 @@   ❮\/__-__\/❯                                       @@
-@@   ❮(|~o.o~|)❯                                       @@
-@@   ❮/ \`-'/ \❯       enthusiastic, optimistic,       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while !succeed:            |     @@
-@@   \ |  ,  | /    |       try:                 |     @@
+@@   ❮(|~o.o~|)❯       enthusiastic, optimistic        @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_      .----------------------------.     @@
+@@    ( .   . )     | while !succeed:            |     @@
+@@   / /     \ \    |       try: self.modify()   |     @@
+@@   \ |  ,  | /    |       except: self.dead()  |     @@
 @@    \|=====|/     '----------------------------'     @@
 @@     |_.^._|                                         @@
 @@     | |"| |                Computer                 @@
@@ -47,4 +47,4 @@ Hi there, this is Pratik Suhas Pawar a Python programmer with experence in Compu
 @@(___.'     '.___)                                    @@
 @@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @@
 ```
-</h3>  
+</h4>  
