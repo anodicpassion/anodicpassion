@@ -12,6 +12,8 @@
   <img align="left" alt="Pratik Pawar | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" />
 </a>
 
+<img align="right" src="https://img.shields.io/github/followers/pratik-suhas-pawar?label=Follow&style=social" /><img align="right" src="https://komarev.com/ghpvc/?username=pratik-suhas-pawar&color=brightgreen" /> 
+
 <h1 align="center">
 
 ```diff
@@ -46,7 +48,7 @@ Sup...? Pratik here...!
 </h3>  
 
 
-<img align="right" src="https://img.shields.io/github/followers/pratik-suhas-pawar?label=Follow&style=social" /><img align="right" src="https://komarev.com/ghpvc/?username=pratik-suhas-pawar&color=brightgreen" /> 
+
 
 <br>
 
