@@ -13,12 +13,13 @@ src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49
 <img src="https://komarev.com/ghpvc/?username=pratik-suhas-pawar&color=blue" /> 
 
 
-<h1 align="center">
+<h2 align="center">
 
 ```diff
 Sup...? Pratik here...!
 ```
-</h1>
+</h2>
+
 <h3 align="center"> 
   
 ```diff
@@ -46,4 +47,3 @@ Sup...? Pratik here...!
 </h3>  
 <br>
 
-<h4 align="center">Hi there, this is Pratik Suhas Pawar a Python programmer with experence in Computer Vision and Machine Learning. Working on the Python package which will be soon released. </h4>
