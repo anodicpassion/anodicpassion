@@ -20,6 +20,10 @@ Sup...? Pratik here...!
 ```
 </h2>
 
+<h5 align="center">
+Hi there, this is Pratik Suhas Pawar a Python programmer with experence in Computer Vision and Machine Learning. Working on the Python package which will be soon released.
+</h5>
+
 <h3 align="center"> 
   
 ```diff
@@ -43,7 +47,4 @@ Sup...? Pratik here...!
 @@(___.'     '.___)                                    @@
 @@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @@
 ```
-
 </h3>  
-<br>
-
