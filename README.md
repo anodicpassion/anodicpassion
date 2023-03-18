@@ -20,7 +20,9 @@ Sup...? Pratik here...!
 </h2>
 
 <h5 align="center">
-Hi there, this is Pratik Suhas Pawar a Python programmer with experence in Computer Vision and Machine Learning. Working on the Python package which will be soon released.
+A Python programmer with experence in Computer Vision
+<br>Machine Learning and GUI Development. 
+<br>Working on the Python package which will be soon released.
 </h5>
 
 <h4 align="center"> 
