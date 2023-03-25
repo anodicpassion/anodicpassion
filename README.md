@@ -1,6 +1,6 @@
 <a href="">
 
-<img align="right" alt="" height=19 src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" />
+<img align="right" alt="E-Mail" height=19 src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" />
 </a>
 
 <a href="https://instagram.com/anodic_passion">
