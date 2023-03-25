@@ -1,3 +1,8 @@
+<a href="">
+
+<img align="right" alt="" height=19 src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" />
+</a>
+
 <a href="https://instagram.com/anodic_passion">
 
 <img align="right" alt="Pratik's Instagram" width=21 height=21 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" />
