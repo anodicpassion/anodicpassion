@@ -27,43 +27,22 @@
 
 ```diff
 Sup...? Pratik here...!
+
+🐍 Python Maestro Developer | 🤖 Machine Learning Enthusiast
 ```
 </h2>
 
-<h5 align="center">
-A Python programmer with experence in Computer Vision
-<br>Machine Learning and GUI Development. 
-<br>Working on the Python package which will be soon released.
-</h5>
 
-<h4 align="center"> 
-  
-```diff
-@@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @@
-@@       o o                                           @@
-@@       | |      An exprienced programmer in Python,  @@
-@@      _L_L_      Computer Vision, Machine Learning   @@
-@@   ❮\/__-__\/❯                                       @@
-@@   ❮(|~o.o~|)❯       enthusiastic, optimistic        @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_      .----------------------------.     @@
-@@    ( .   . )     | while !succeed:            |     @@
-@@   / /     \ \    |       try: self.modify()   |     @@
-@@   \ |  ,  | /    |       except: self.dead()  |     @@
-@@    \|=====|/     '----------------------------'     @@
-@@     |_.^._|                                         @@
-@@     | |"| |                Computer                 @@
-@@     ( ) ( )     is a dumb computational device,     @@
-@@     |_| |_|      order it and it will obey...!      @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-@@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @@
-```
-</h4>  
 
+<h6>
+  - My unswerving commitment lies in propelling innovation in product genesis and maturation.
+</h6>
+
+
+<br>
 <div align="center">
 <a href="https://github.com/pratik-suhas-pawar">
-<img src="https://img.shields.io/badge/grow_with_me-2023-blueviolet" alt=" welcome to contribute in my projects"/>
+<img src="https://img.shields.io/badge/open_for-contribution-blueviolet" alt=" welcome to contribute in my projects"/>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <img src="https://img.shields.io/badge/contributers-welcome-blue" alt=" welcome to contribute in my projects"/>
   </a>
