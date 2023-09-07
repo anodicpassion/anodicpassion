@@ -13,6 +13,11 @@
 <img align="right" alt="Praitk's Discord" height=19 src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"/>
 </a>
 
+<a href="https://linkedin.com/in/pratik-pawar-0370b0290">
+
+<img align="right" alt="Praitk's Discord" height=19 src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+</a>
+
 <a href="https://github.com/pratik-suhas-pawar">
 <img src="https://img.shields.io/github/followers/pratik-suhas-pawar?label=Follow&style=social" />
 <img src="https://komarev.com/ghpvc/?username=pratik-suhas-pawar&color=blue" /> 
