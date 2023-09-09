@@ -35,7 +35,7 @@ Sup...? Pratik here...!
 
 
 <h6>
-  - My unswerving commitment lies in propelling innovation in product genesis and maturation.
+  - My unswerving commitment lies in propelling <br> &nbsp&nbsp innovation in product genesis and maturation.
 </h6>
 
 
