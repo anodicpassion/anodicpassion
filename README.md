@@ -19,8 +19,8 @@
 </a>
 
 <a href="https://github.com/pratik-suhas-pawar">
-<img src="https://img.shields.io/github/followers/pratik-suhas-pawar?label=Follow&style=social" />
-<img src="https://komarev.com/ghpvc/?username=pratik-suhas-pawar&color=blue" /> 
+<!-- <img src="https://img.shields.io/github/followers/pratik-suhas-pawar?label=Follow&style=social" /> -->
+<!-- <img src="https://komarev.com/ghpvc/?username=pratik-suhas-pawar&color=blue" />  -->
 </a>
 
 <h2 align="center">
