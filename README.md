@@ -1,4 +1,4 @@
-
+<br>
 <h5>
 Computer programmer with a dynamic skill set in system development, cross-platform integration and deep learning.
 </h5>
