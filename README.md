@@ -1,5 +1,5 @@
 #### Computer programmer with a dynamic skill set in system development, cross-platform integration and deep learning.
-
+<a href="http://anodicpassion.pythonanywhere.com/profile/GitHub">Full Profile↗</a>
 
 <br>
 
